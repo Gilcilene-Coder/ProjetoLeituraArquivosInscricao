@@ -1,0 +1,88 @@
+Os dados do arquivo 2023-06/52230608864907000100550010000513311073872980-51331.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230608865227000101550010000052311512042380-5231.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/51230638421446000162550010000034311100035740-3431.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230633365180000164550050001209031002240240-120903.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230602532281000230550010006838091033304258-683809.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/51230626552687000161550010008093111110744050-809311.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/51230637525771001346550130009495931560087489-949593.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230634142912000110550010000043131000047293-4313.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230625131418000169550010000008111000011345-811.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/51230644001379000120570020000011871000118790-1187.xml são:
+                        xNome          CPF            CNPJ         IE
+0  TRANSPORTADORA CAMERA LTDA  01865967157  44001379000120  139038248
+
+Os dados do arquivo 2023-06/evento/51230644001379000120580020000007671000076794-1187-252678636.xml são:
+                        xNome               CPF            CNPJ         IE
+0  TRANSPORTADORA CAMERA LTDA  Não identificado  87124582000104  139038248
+
+Os dados do arquivo 2023-06/52230602077618004415550020004326901269058696-432690.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230602077618004415550020004328141638248805-432814.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/51230606098802000910550010000008891413845344-889.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230600912141000180550010000314431000905934-31443.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230602077618004415550020004329261973874352-432926.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/51230626552687000161550010008108651110762695-810865.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
+Os dados do arquivo 2023-06/52230608864907000100550010000516821307386594-51682.xml são:
+Empty DataFrame
+Columns: [xNome, CPF, CNPJ, IE]
+Index: []
+
